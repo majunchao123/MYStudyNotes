@@ -1,0 +1,4 @@
+# Project exclude paths
+/_01_springsecurity_demo1/target/
+/_02_stream/target/
+/_03_MyBatisPlus/target/
